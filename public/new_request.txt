@@ -1,0 +1,9 @@
+Array
+(
+    [my_number] => 6282114552152
+    [keyword] => default
+    [port] => 4027
+    [ip_server] => 173.249.40.49
+    [contact_name] => +628159702710
+    [message] => Ho
+)
